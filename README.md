@@ -83,7 +83,7 @@ adb logcat | grep -E "(GPUTest|OpenCL|TFLite)"
 adb shell find /vendor /system -name "libOpenCL.so" 2>/dev/null
 
 # GPU情報確認
-adb shell dumpsys | grep GLES ```
+adb shell dumpsys | grep GLES
 ```
 
 ### 期待されるログ出力

@@ -95,6 +95,10 @@ D/GPUTest: CPU thread task time: 148ms
 D/GPUTest: GPU thread task time: 124ms
 ```
 
+## Download Pre-built APK
+
+**[Releases page](https://github.com/nehori/TensorFlowLiteGPU/releases)** から APK をダウンロードして利用ください。
+
 ## ライセンス
 
 MIT License
